@@ -1,5 +1,6 @@
 # Welcome to PurpleCube Help Center!
 
+a
 Open one of the pages below to get help in answering your questions.  
 You can search user guides and community portal or raise product issues and questions through the support desk.
 
