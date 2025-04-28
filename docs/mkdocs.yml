@@ -1,0 +1,17 @@
+site_name: PurpleCube Help Center
+
+nav:
+  - Home: README.md
+  - Guides:
+      - Purplecube Guide: guide.md
+      - Purplecube Manager Guide: manager-guide.md
+  - Tutorials:
+      - Tutorial Videos: tutorials.md
+  - Support:
+      - Release Notes: release-notes.md
+      - Community: community.md
+      - Support Desk: support.md
+      - Announcements: announcements.md
+
+theme:
+  name: mkdocs
