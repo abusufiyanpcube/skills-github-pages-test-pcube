@@ -40,3 +40,8 @@ You can search user guides and community portal or raise product issues and ques
 
 - [**Announcements**](announcements.md)  
   _Latest updates on PurpleCube releases and support._
+
+
+
+!!! tip "Start Here"
+    Go through the [Guide](guide.md) to get started with setup.
