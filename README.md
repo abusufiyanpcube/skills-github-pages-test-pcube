@@ -1,26 +1,41 @@
-# GitHub Pages
+# Welcome to PurpleCube Help Center!
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Open one of the pages below to get help in answering your questions.  
+You can search user guides and community portal or raise product issues and questions through the support desk.
 
-## Step 2: Configure your site
+---
 
-_You turned on GitHub Pages! :tada:_
+## 📘 Guides & Documentation
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+- [**Purplecube Guide**](guide.md)  
+  _Find out the details about PurpleCube's architecture, installation and usage._
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+- [**Purplecube Manager Guide**](manager-guide.md)  
+  _Find out the details about PurpleCube Manager’s architecture, installation and usage._
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+---
 
-### :keyboard: Activity: Configure your site
+## 🎬 Learning Resources
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- [**Tutorial Videos**](videos.md)  
+  _Access the library of PurpleCube tutorial videos._
+
+- [**Release Notes**](https://support.purplecube.ai/docs/release-notes)  
+  _New features, enhancements and fixes._
+
+---
+
+## 💬 Community & Support
+
+- [**Community**](community.md)  
+  _Post your questions, follow discussions and share your knowledge._
+
+- [**Support Desk**](support.md)  
+  _Contact us for any issues, usability questions and enhancement requests._
+
+---
+
+## 📣 Announcements
+
+- [**Announcements**](announcements.md)  
+  _Latest updates on PurpleCube releases and support._
