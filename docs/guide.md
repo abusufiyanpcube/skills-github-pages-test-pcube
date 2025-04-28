@@ -1,5 +1,5 @@
 # Purplecube Guide
 
-- [**Overview**](skil-github-pages-test-pcube/overview.md)
+- [**Overview**](docs/guide.md)
 
 # Welcome to PurpleCube Help Center!
