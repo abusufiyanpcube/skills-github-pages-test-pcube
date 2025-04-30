@@ -1,5 +1,5 @@
 # Purplecube Guide
 
-- [**Overview**](docs/guide.md)
+- [**Overview**](guide.md)
 
 # Welcome to PurpleCube Help Center!
