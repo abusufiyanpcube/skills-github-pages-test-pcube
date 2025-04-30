@@ -7,7 +7,7 @@ You can search user guides and community portal or raise product issues and ques
 
 ## 📘 Guides & Documentation
 
-- [**Purplecube Guide**](docs/guide.md)  
+- [**Purplecube Guide**](guide.md)  
   _Find out the details about PurpleCube's architecture, installation and usage._
 
 - [**Purplecube Manager Guide**](manager-guide.md)  
@@ -17,7 +17,7 @@ You can search user guides and community portal or raise product issues and ques
 
 ## 🎬 Learning Resources
 
-- [**Tutorial Videos**](videos.md)  
+- [**Tutorial Videos**](tutorials.md)  
   _Access the library of PurpleCube tutorial videos._
 
 - [**Release Notes**](https://support.purplecube.ai/docs/release-notes)  
