@@ -1,7 +1,7 @@
 site_name: PurpleCube Help Center
 
 nav:
-  - Home: README.md
+  - Home: index.md
   - Guides:
       - Purplecube Guide: guide.md
       - Purplecube Manager Guide: manager-guide.md
