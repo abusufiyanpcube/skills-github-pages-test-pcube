@@ -20,7 +20,10 @@ You can search user guides and community portal or raise product issues and ques
 - [**Tutorial Videos**](videos.md)  
   _Access the library of PurpleCube tutorial videos._
 
-- [**Release Notes**](https://support.purplecube.ai/docs/release-notes)  
+- [**Release Notes**](docs/release-notes.md)  
+  _New features, enhancements and fixes._
+
+- [**Release Notes URL **](https://support.purplecube.ai/docs/release-notes)  
   _New features, enhancements and fixes._
 
 ---
