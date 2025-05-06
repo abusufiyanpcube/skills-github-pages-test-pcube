@@ -1,6 +1,7 @@
 ## Product Release Notes
 
 Here, you can view the updates included in the product releases. You can find the bug fixes for the issues, existing features upgraded and new functionalities added in the release. We categorize the releases as below.
+
 **Major Release:**
 Major releases include major improvements and enhancements to the product. It can also include minor enhancements and fixes for issues identified internally or by the product users. The major release will include all the applicable features from prior major release, and changes made as part of prior minor releases and patch releases. Typically one Major Release is planned for an year.
 
